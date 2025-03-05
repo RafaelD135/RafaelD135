@@ -9,7 +9,8 @@
 - 🛠️ Projets récents :
   - Réseau social complet en PHP/MySQL.
   - Application de gestion de questionnaires en Java.
-  - Site web répertoriant des films et séries via une API (en cours).
+  - Site web répertoriant des films et séries via une API (en pause).
+  - Application Java permettant de créer, gérer et lancer des espaces de travail personnalisés (en cours).
 
 ---
 
